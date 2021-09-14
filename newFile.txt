@@ -1,0 +1,2 @@
+OLD CONTENT lorem ipsum old text
+NEW CONTENT: LOREM BLABLABLA
